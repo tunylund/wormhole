@@ -1,0 +1,16 @@
+{
+  "name": "wormhole",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "devDependencies": {},
+  "scripts": {
+    "dev": "http-server -c-1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "tiny-game-engine": "./../tiny-game-engine"
+  }
+}

@@ -11,6 +11,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "tiny-game-engine": "./../tiny-game-engine"
+    "tiny-game-engine": "git@github.com:tunylund/tiny-game-engine.git#4801aa4"
   }
 }
